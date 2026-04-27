@@ -3,8 +3,6 @@
 - 🎓 : Currently in last year of my degree in Computer Science at EPITA in Paris.
 - 💻 : Proficient in React, Angular, Java, Python, (Type/Java)script and Shell scripting. .
 
-Connect with me:
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/thibaut-bonefont-aa7822268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elouan-tailliez-83031a253/" height="30" width="40" /></a>
 </p>
